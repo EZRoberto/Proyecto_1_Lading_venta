@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+    }
+
+.head{
+    background-color: rgb(14, 51, 119);
+    height: 80px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.logo_head{
+    display: inline-block;
+    height: 60px;
+    }
+
+.links_head{
+    padding-left: 120px;
+}
+
+.links_head ul li{
+    display: inline;
+    padding-right: 15px;
+    cursor: pointer;
+    font-size: 12px;
+}
