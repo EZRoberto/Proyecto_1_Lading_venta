@@ -29,4 +29,48 @@
         margin-top: -5rem;
         margin-left: 55px; 
     }
+
+    .jumbotron h1 {
+        font-size: 5em;
+        color: rgba(214, 19, 19, 0.658);
+        margin-left: 150px;
+        font-size: 6em;
+    }
+    
+    /*titulo header*/
+    .jumbotron .h2_p1{
+        color:#2e266f;
+        margin-left: 225px;
+        margin-top: 0px;
+        font-size: 3em;
+     }
+
+    .jumbotron .h2_p2{
+        color:#2e266f;
+        margin-left: 150px;
+        margin-top: 0px;
+        font-size: 3em;
+     }
+
+    .jumbotron .headphone_jumbo{
+        position: absolute;
+        width: 500px;
+        margin: -250px 500px;
+        right:-20rem ;
+    }
+
+       
+    .jumbotron .button_jumbo{
+        background-color: #5e3c94;
+        border: 1px solid #5e3c94;
+        border-radius: 4px;
+        padding: 14px 40px;
+        margin: 20px 200px;
+               color: #fff5ec;
+    }
+    .jumbotron .button_jumbo:hover{
+        background-color: #8344e9;
+        cursor: pointer;
+    }
+
     
