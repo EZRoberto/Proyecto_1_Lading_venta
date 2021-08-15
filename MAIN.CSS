@@ -203,3 +203,58 @@
             line-height: 1.5;
         }
     
+
+
+
+
+
+
+.footer_titulo h5{
+    color:#035a2a;
+   text-align: center;
+    font-size: 2em;
+    margin-top: 50px;
+}
+
+.footer_final p {
+    font-size: 1.5em;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.footer_boton{
+    background-color: #5e3c94;
+    border: 1px solid #5e3c94;
+    border-radius: 4px;
+    padding: 14px 50px;
+    margin: 20px 525px;
+    color: #fff5ec;
+}
+.footer_boton:hover{
+    background-color: #8344e9;
+    cursor: pointer;
+}
+ 
+
+
+.footer_menu ul, li,a{
+color: black;
+display: flex;
+justify-content: center;
+text-decoration: none;
+list-style: none;
+font-size: .9em;
+margin-top: 30px;
+
+}
+
+
+
+.footer_cr p{
+    margin-right: 90px ;
+    text-align: right;
+    font-size: .9em;
+    margin-top: none;
+    
+
+}
